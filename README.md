@@ -114,41 +114,7 @@ Based on the analysis, recommendations were made to help the Category Manager:
 
 ---
 
-## 📁 Repository Structure
 
-```
-quantium-retail-analytics
-│
-├── README.md
-├── data
-├── notebooks
-├── reports
-└── images
-```
-
----
-
-## ▶️ How to Run
-
-Clone this repository:
-
-```bash
-git clone https://github.com/Mohan81020/quantium-retail-analytics.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the notebook:
-
-```
-notebooks/Quantium_Task1_Analysis.ipynb
-```
-
----
 
 ## 📚 Learning Outcomes
 
@@ -166,9 +132,6 @@ Through this project, I strengthened my skills in:
 ## 👨‍💻 Author
 
 **Mohan Kumar**
-
-- LinkedIn: *(Add your LinkedIn profile link here)*
-- GitHub: https://github.com/Mohan81020
 
 ---
 
