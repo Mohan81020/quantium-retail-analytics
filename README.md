@@ -34,7 +34,7 @@ The final objective was to provide data-driven recommendations for the upcoming 
 |----------|-------------|
 | 📊 [Transaction Dataset](./Task-1/Data/QVI_transaction_data.csv) | Retail transaction dataset |
 | 👥 [Customer Dataset](./Task-1/Data/QVI_purchase_behaviour.csv) | Customer demographic dataset |
-| 📓 [Jupyter Notebook](./Task-1/Python/Quantium_Task1_Analysis.ipynb) | Complete Python analysis |
+| 📓 [Jupyter Notebook](./Task-1/Python/Task_1_Mohan_Kumar.py) | Complete Python analysis |
 | 📄 [Project Report (PDF)](./Task-1/Reports/Task_1_Mohan_Kumar.pdf) | Final analysis report |
 ## 📂 Dataset
 
